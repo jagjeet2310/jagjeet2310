@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Jagjeet Singh 👋
 
-<!--
-**jagjeet2310/jagjeet2310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Frontend Developer | MERN Stack Learner | Lifelong Learner**  
 
-Here are some ideas to get you started:
+🌱 Currently exploring **React.js, TailwindCSS, and Modern Web Development**  
+💡 Passionate about creating clean UI/UX and solving real-world problems with code.  
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🛠️ Tech Stack
+
+**Frontend:**  
+![HTML5]
+![CSS3]
+![JavaScript]  
+![React]
+![TailwindCSS] 
+
+
+
+**Tools & Platforms:**  
+![Git] 
+![GitHub]
+![VS Code](
+
+---
+
+## 📫 Let's Connect
+- 📧 Email: **js9697269@gmail.com**  
+- 💼 LinkedIn: [Jagjeet Singh](https://www.linkedin.com/in/jagjeet-singh12/)  
+- 💻 GitHub: [jagjeet2310](https://github.com/jagjeet2310)  
